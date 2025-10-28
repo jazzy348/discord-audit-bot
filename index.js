@@ -1,5 +1,3 @@
-const fs = require('fs');
-const path = require('path');
 const { Client, GatewayIntentBits, Collection, Events, Partials, EmbedBuilder } = require('discord.js');
 const config = require('./config.json');
 
